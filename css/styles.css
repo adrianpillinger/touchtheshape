@@ -1,0 +1,33 @@
+body
+{                        
+	margin:0;
+	padding:0;
+}
+
+.framed {
+	box-shadow: 5px 5px 5px #888;
+}
+
+/* 
+#wrapper
+{            
+	overflow:hidden;
+	background-color:#000;                      
+}
+
+#wrapper ul
+{
+	list-style:none;
+	margin:0;
+	padding:0; 
+	-webkit-transition: -webkit-transform 0.3s linear;                               
+}
+
+#wrapper ul li
+{
+   float:left;                        
+}
+ */
+           
+              
+       
